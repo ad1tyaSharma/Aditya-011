@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/aditya-sharma-9380411b0/"> <img src="https://img.icons8.com/cute-clipart/26/000000/linkedin.png"/>
 </a>
 <a href="https://www.instagram.com/aditya__sharma__111/"><img src="https://img.icons8.com/cute-clipart/26/000000/instagram-new.png"/> </a>
+<a href="mailto:adihgr18@gmail.com"><img src="https://img.icons8.com/cute-clipart/26/000000/gmail.png"/></a>
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
