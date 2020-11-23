@@ -1,6 +1,6 @@
 ## Hello Github Commubity, It's Aditya 👋
 ### I'm a Developer, Student and  a Gamer 🎮
- <img align="right" alt="GIF" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300" height="180" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" height="180" />
 
 <!--### ✍ You can find my projects here [portfolio]-->
 - 🔭 I’m currently working on 3D Visualizer Music Player.
