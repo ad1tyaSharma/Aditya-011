@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" height="180" />
 
 <!--### ✍ You can find my projects here [portfolio]-->
-- 🔭 I’m currently working on 3D Visualizer Music Player.
+- 🔭 I’m currently working on File Sharing App
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Null.
