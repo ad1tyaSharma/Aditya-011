@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" height="180" />
 
 <!--### ✍ You can find my projects here [portfolio]-->
-- 🔭 I’m currently working on MERN Blog Website
+- 🔭 I’m currently working on React Dictionary App
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Null.
