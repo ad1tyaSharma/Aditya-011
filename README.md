@@ -6,7 +6,14 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ad1tya_sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ad1tya_sharma_" height="30" width="40" /></a>
+<a href="https://instagram.com/aditya__sharma__111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya__sharma__111" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aditya_011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_011" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aditya_011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aditya_011" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adihgr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adihgr18" height="30" width="40" /></a>
+</p>
 ```javascript
 const aditya = {
     pronouns: "He" | "Him",
@@ -34,6 +41,6 @@ const aditya = {
 
 ---
 <!--START_SECTION:waka-->
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-011&theme=tokyonight&show_icons=true)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-011&theme=tokyonight&show_icons=true)
 
 <!--END_SECTION:waka-->
