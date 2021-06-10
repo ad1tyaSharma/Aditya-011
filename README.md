@@ -34,5 +34,6 @@ const aditya = {
 
 ---
 <!--START_SECTION:waka-->
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-011&theme=tokyonight&show_icons=true)
 
 <!--END_SECTION:waka-->
