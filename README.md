@@ -7,6 +7,29 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const aditya = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C", "C++", "Python", "Matlab"],
+    askMeAbout: ["Web Dev", "tech", "competitive programming", "cricket", video games],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["React", "Node", "Vanilla"],
+            css: ["materialize", "tailwind", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "mongoDB"]
+        },
+        databases: ["mongoDB"],
+        misc: ["Firebase", "Socket.IO", "open-cv"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentProject: "I am developing an online book store website",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-011&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-011" alt="aditya-011" /></a> </p>
