@@ -1,11 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Aditya Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Student at <a href="http://www.cleartax.in">NIT Srinagar</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at NIT Srinagar<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/Ad1tya_Sharma_?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-sharma-9380411b0)](https://www.linkedin.com/in/aditya-sharma-9380411b0/)
-![GitHub followers](https://img.shields.io/github/followers/Aditya-011?label=Follow&style=social)
 
 
 
