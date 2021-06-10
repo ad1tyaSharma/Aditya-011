@@ -52,5 +52,5 @@ const aditya = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-011&show_icons=true&locale=en&hide_border=true&count_private=true&theme=tokyonight" alt="aditya-011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-011&hide_border=true&count_private=true&theme=tokyonight" alt="aditya-011" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-011&count_private=true&theme=tokyonight" alt="aditya-011" /></p>
 
